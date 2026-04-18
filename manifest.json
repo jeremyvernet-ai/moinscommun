@@ -1,13 +1,23 @@
 {
-  "background_color": "#ffffff",
-  "description": "Application officielle de l’émission Moins Commun sur LA 1337 Radio avec live, podcasts et jeux.",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Moins Commun",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "MoinsComm",
-  "start_url": "/",
-  "theme_color": "#6d35d7",
-  "id": "com.moinscommun.app"
+  "id": "com.moinscommun.app",
+  "description": "Application officielle de l’émission Moins Commun sur LA 1337 Radio avec live, podcasts et jeux.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6D35D7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
