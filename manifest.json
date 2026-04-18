@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "Application officielle de l’émission Moins Commun sur LA 1337 Radio avec live, podcasts et jeux.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Moins Commun",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MoinsComm",
+  "start_url": "/",
+  "theme_color": "#6d35d7",
+  "id": "com.moinscommun.app"
+}
